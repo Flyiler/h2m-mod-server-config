@@ -6,7 +6,7 @@ GUIDE POUR HÉBERGER UN SERVEUR H2M
 
 Étape 3 : Configurez votre fichier server_default.cfg selon vos préférences. Cela inclut les rotations de cartes à utiliser, les paramètres du mode de jeu, le nom d'affichage du serveur, les emplacements, les messages automatiques, etc. Cette partie peut être complexe, alors assurez-vous de bien comprendre ce que vous modifiez.
 
-Étape 4 : Téléchargez IW4MAdmin avec le support de parsing H2M : https://github.com/RaidMax/IW4M-Admin/actions/runs/10361847051/artifacts/1804465554. Vous devrez peut-être être connecté à GitHub pour utiliser ce lien.
+Étape 4 : Téléchargez IW4MAdmin avec le support de parsing H2M : https://github.com/RaidMax/IW4M-Admin/actions/runs/10361847051/artifacts/1804465554 Vous devrez peut-être être connecté à GitHub pour utiliser ce lien.
 
 Étape 5 : Décompressez ce fichier et placez le dossier dans le répertoire du jeu.
 
